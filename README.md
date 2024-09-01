@@ -1,13 +1,4 @@
-
----
-
-### **JavaScript ToDo List Project**
-**Repository Name:** `javascript-todo-list-app`
-
-**README.md:**
-
-```markdown
-# JavaScript ToDo List Application
+# JavaScript ToDo List Project
 
 ## Description
 This project is a simple ToDo List application built using vanilla JavaScript, styled with consistent colors and layouts inspired by a previous HTML and CSS project. The application allows users to create, edit, delete, and mark tasks as finished, automatically moving tasks between the "ToDo" and "Finished" sections.
